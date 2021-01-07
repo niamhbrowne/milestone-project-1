@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #ebe7e7;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #a9c3ac;
+}
+
+h2{
+  font-family: Oswald, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  color: #555555;
+  font-weight: 200;
+}
+
+#name {
+    float: left;
+    margin-left: 25px;
+    margin-top: 15px;
+    font-size: 300%;
+}
+#menu1 {
+    font-size: 100%;
+    list-style-type: none;
+    letter-spacing: 5px;
+    color: #b0504c;
+    font-weight: 200;
+    font-family: monospace;
+}
+#menu1 li {
+    float: right;
+    margin-right: 25px;
+    margin-top: 15px;
+}
+
+#menu {
+    font-size: 180%;
+    list-style-type: none;
+    letter-spacing: 5px;
+    color: #b0504c;
+    font-weight: 200;
+    font-family: monospace;
+}
+
+
+#menu li {
+    float: right;
+    margin-right: 25px;
+    margin-top: 15px;
+}
+
+#name, #menu {
+    line-height: 70px;
+}
+
+#page1 {
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 150px;
+}
+
+#page1 h1 {
+    font-size: 500%;
+    font-weight: 300%;
+    color: #d95d39;
+}
+
+#page1 p {
+    font-size: 200%;
+    font-weight: 100%;
+    color: #823b49;
+    font-family: monospace;
+}
+
+#home h2 {
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #a9c3ac;
+    color: #464e58;
+
+}
+
+#home-page-menu {
+    font-size: 300%;
+    list-style-type: none;
+    letter-spacing: 5px;
+    color: #b0504c;
+    font-weight: 200;
+}
+
+#home-page-menu li {
+    float: inherit;
+    display: inline;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #a9c3ac;
+    color: #464e58;
+}
+
+footer {
+    height: 150px;
+}
+
+.socials {
+text-align: center;
+}
+
+.socials li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #8c9cb1;
+    margin-bottom: 10px;
+}
+
+#pizza {
+    text-align: center;
+    padding-top: 150px;
+}
+
+#pizza h2 {
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 200%;
+    
+}
+
+#pizza h3 {
+    letter-spacing: 3px;
+    font-size: 150%;
+    font-weight: 150;
+    text-transform: uppercase;
+    color: #65070c;
+}
+
+#pizza h6 {
+    letter-spacing: 3px;
+    font-size: 90%;
+    font-weight: 150;
+    text-transform: uppercase;
+}
+
+#pizza h5 {
+    letter-spacing: 4px;
+    font-size: 100%;
+    font-weight: 100;
+    color: #65070c;
+}
+
+#pizza p {
+    color: #823b49;
+    font-family: monospace;
+}
+#pizza h4 {
+    font-size: 100%;
+    font-weight: 50;
+    text-transform: uppercase;
+}
+footer h6 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #a9c3ac;
+    color: #823b49;
+    font-family: monospace;
+}
+#contact {
+    padding-top: 150px;
+}
+
+#contact h2 {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 200%;
+}
+
+#contact h3 {
+    text-align: center;
+    font-size: 150%;
+    font-weight: 150;
+    margin-left: 40px;
+}
+
